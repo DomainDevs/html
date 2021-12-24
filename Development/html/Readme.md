@@ -1,6 +1,6 @@
 # E-Commerce template
 
-In firts part of our complete e-commerce app template
+In firts part of our complete e-commerce app template.
 
 ## Screens it contains:
 
